@@ -70,7 +70,7 @@ print(f"The date of birth is {date_of_birth} and the number is {number2} and the
 # first_name
 # last_name
 # email_address
-# percent
+# percent -dont use a symbol
 # variable_name
 # zero
 # list # this is a keyword in python
