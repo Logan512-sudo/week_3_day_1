@@ -169,7 +169,6 @@ num1 = int(input("enter a number:"))
 num2 = int(input("enter another number:"))
 # # print out a statement where you:
 # # add them together
-print(num1 + num2)
 # #multiply
 print(num1 * num2)
 # # find the max number
@@ -187,6 +186,23 @@ print(round(num1 + num2))
 
 
 ##########################################################################################
+
+
+Newnum1 = int(input("enter a number:"))
+Newnum2 = int(input("enter another number:"))
+print(Newnum1 - Newnum2)
+print(Newnum1/Newnum2)
+print(Newnum1 + Newnum2)
+print(min(Newnum1,Newnum2))
+print(abs(Newnum2))
+print(floor(Newnum2))
+print(ceil(Newnum1))
+
+
+
+
+
+
 # # mad libs game
 # print("Roses are {color}")
 # print("{plural noun} are blue")
