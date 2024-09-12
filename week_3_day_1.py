@@ -44,28 +44,11 @@ number3 = 123.456
 number4 = 123.33
 number5 = 4555
 
-print("My brother was born in " + str(date_of_birth) + "and was " + str(number3) + " tall and had constant hiccups in the order of " + str(number2) + ". He grew to as big as " + str(number5) + " inches and thats pretty big. His parents looked as small as when he was " + str(number4) + ".")
+print("My brother was born in " + str(date_of_birth) + " and was " + str(number3) + " tall and had constant hiccups in the order of " + str(number2) + ". He grew to as big as " + str(number5) + " inches and thats pretty big. His parents looked as small as when he was " + str(number4) + ".")
 print(f"The date of birth is {date_of_birth} and the number is {number2} and the number is {number3} and the number is {number4} and the number is {number5}")
 
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##########################################################################################
 # The names you use when creating these labels need to follow a few rules:
@@ -84,13 +67,14 @@ print(f"The date of birth is {date_of_birth} and the number is {number2} and the
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# first_name
+# last_name
+# email_address
+# percent
+# variable_name
+# zero
+# list # this is a keyword in python
+# you cannot use it for your own variable name
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -111,10 +95,10 @@ print(f"The date of birth is {date_of_birth} and the number is {number2} and the
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# first_variable
+# emailAddress
+# percentage
+# intellect
 
 
 
